@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.phonegap.dogyearcalculator" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Covid-19 in 2020</name>
+    <description>
+        Covid tracker - updater - code cloned
+    </description>
+    <author email="gareth_klyszejko@yahoo.com" href="http://phonegap.com">
+        Gareth Klyszejko
+    </author>
+    <icon src="image.jpg" />
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
